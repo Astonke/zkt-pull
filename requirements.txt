@@ -1,0 +1,4 @@
+pyzk
+openpyxl
+pandas
+pillow
