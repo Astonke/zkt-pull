@@ -1,0 +1,5 @@
+ip link
+sudo ip addr flush dev enp0s31f6
+sudo ip addr add 192.168.1.10/24 dev enp0s31f6
+sudo ip link set enp0s31f6 up
+
